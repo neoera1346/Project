@@ -4,8 +4,7 @@
 
 First Project
 
-- Process
-- Presentation
+- README
 
 Second Project
 
